@@ -20,3 +20,6 @@ Click the name, type a new name, and press enter to rename the active object.
 If two or more objects are selected, Multi Object Rename will appear in the Item panel.  
 Type in a name and press the Multi Object Rename button to name multiple objects at once.  
 The objects will be named like "NewName", "NewName.001", "NewName.002", and so on.
+
+## Credit  
+The Item panel is based on the Blender 2.79b Item panel.
