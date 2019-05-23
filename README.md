@@ -1,5 +1,8 @@
 # Namer2.8
-Blender addon that adds the "Item" panel back with a simple multi object rename feature.
+Blender addon that adds the "Item" panel back with some new features:
+* Multi object rename
+* Multi object add prefix
+* Multi object add suffix
 
 ## Installation  
 ### Requirements  
